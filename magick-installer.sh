@@ -22,7 +22,7 @@ download http://download.osgeo.org/libtiff/tiff-4.0.2.tar.gz
 download http://pkgs.fedoraproject.org/repo/pkgs/libwmf/libwmf-0.2.8.4.tar.gz/d1177739bf1ceb07f57421f0cee191e0/libwmf-0.2.8.4.tar.gz
 download http://downloads.sourceforge.net/project/lcms/lcms/1.19/lcms-1.19.tar.gz
 download http://sourceforge.net/projects/ghostscript/files/GPL%20Ghostscript/9.06/ghostscript-9.06.tar.gz
-download https://ghostscript.googlecode.com/files/ghostscript-fonts-std-8.11.tar.gz
+download http://nchc.dl.sourceforge.net/project/gs-fonts/gs-fonts/8.11%20%28base%2035%2C%20GPL%29/ghostscript-fonts-std-8.11.tar.gz
 download ftp://ftp.sunet.se/pub/multimedia/graphics/ImageMagick/ImageMagick-6.7.9-4.tar.gz
 
 
